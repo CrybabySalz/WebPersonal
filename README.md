@@ -1,3 +1,3 @@
-Esta es la tarea #1 de Carlos Salazar de Programación Web.
+Repositorio creado por Carlos Salazar
 
 Matrícula 2021-1932.
